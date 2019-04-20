@@ -1,0 +1,4 @@
+Unfortunately the geometry of the follower shaft prevents us from using
+Daniels fancy wedge adjustable idea. A convenient alternate would be to 
+use two springs with different tensions on each side. Actually i'm not
+sure if that would work...
