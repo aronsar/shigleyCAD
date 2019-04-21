@@ -1,4 +1,6 @@
 Unfortunately the geometry of the follower shaft prevents us from using
 Daniels fancy wedge adjustable idea. A convenient alternate would be to 
-use two springs with different tensions on each side. Actually i'm not
-sure if that would work...
+use two springs with different tensions on each side. The issue with that
+design is that the springs would cause the shaft to be not horizontal. 
+This could be fixed by putting hard stops on both spring-rods, preventing
+the shaft from getting too out of alignment. 
