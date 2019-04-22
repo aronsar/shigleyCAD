@@ -4,3 +4,18 @@ use two springs with different tensions on each side. The issue with that
 design is that the springs would cause the shaft to be not horizontal. 
 This could be fixed by putting hard stops on both spring-rods, preventing
 the shaft from getting too out of alignment. 
+
+Notes for 4/22:
+- thread the follower shaft, put a flat on it, and put a hub on the follower
+and set screw the follower to the shaft
+- slots for motor mounting, also we want a nice motor collar so as to not
+strip the motor
+- bearing blocks for the spool shaft
+
+Analysis work before the revised CAD:
+- figure out shaft size (1/4 ok?)
+- figure out axial loading on cone bearings
+- how does spool go on shaft?
+- how do bearings go on shaft? (probably collar or press fit??)
+- CAD the bolts and springs for the follower shaft
+- figure out mass of the cart, and also design of cart
